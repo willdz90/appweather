@@ -1,0 +1,10 @@
+#casilla{
+    margin-right: 1vw;
+}
+
+#btnAdd{
+    background-color: gray;
+    border-radius: 3px;
+    border: 1.5px solid green;
+    color: green;
+}
